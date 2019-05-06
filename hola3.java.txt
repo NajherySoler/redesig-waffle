@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 somos ingenieros
+=======
+Hola mudo
+>>>>>>> cd4def52fc32c2cc77350b47ae553a582a33d9d4
